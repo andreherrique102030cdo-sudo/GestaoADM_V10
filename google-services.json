@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957784938595",
+    "project_id": "gestao-adm-569c0",
+    "storage_bucket": "gestao-adm-569c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957784938595:android:c70702c54c6fcd31834056",
+        "android_client_info": {
+          "package_name": "br.com.gestao.adm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_cwY9d_u9Mf4_GcFoSD64x_xSx9QdLeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

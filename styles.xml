@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.GestaoADM" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#D99A2B</item>
+    </style>
+</resources>

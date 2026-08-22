@@ -5,7 +5,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose")
 }
 android { namespace = "br.com.gestao.adm"; compileSdk = 35
-    defaultConfig { applicationId = "br.com.gestao.adm"; minSdk = 26; targetSdk = 35; versionCode = 10; versionName = "10.0" }
+    defaultConfig { applicationId = "br.com.gestao.adm"; minSdk = 26; targetSdk = 35; versionCode = 5; versionName = "5.0" }
 }
 dependencies {
     implementation("androidx.core:core-ktx:1.15.0")

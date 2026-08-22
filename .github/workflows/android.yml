@@ -13,11 +13,6 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Extrair projeto Gestão ADM
-        run: |
-          mkdir projeto
-          unzip -q *.zip -d projeto
-
       - name: Localizar projeto Android
         run: |
           echo "Procurando Gradle Wrapper..."
